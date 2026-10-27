@@ -4,9 +4,7 @@
 
 ### Hi, I'm Ishaan
 
-I'm an MS in Finance candidate at **The University of Chicago Booth School of Business**, graduating in December 2026. I like investment problems where judgment has to become a model someone else can audit: valuing early-stage companies, reading what management is really saying, and making sure the numbers reconcile.
-
-Available full-time from December 2026.
+I'm an MS in Finance candidate at **The University of Chicago Booth School of Business**, graduating in December 2026. 
 
 ### Featured project
 
