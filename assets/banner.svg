@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="Ishaan Bhartia, MS in Finance, Chicago Booth">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#800000"/>
+      <stop offset="1" stop-color="#4a0000"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="260" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.07" stroke-width="1">
+    <path d="M780 260 L1280 20"/><path d="M860 260 L1280 70"/><path d="M940 260 L1280 120"/><path d="M1020 260 L1280 170"/><path d="M1100 260 L1280 220"/>
+  </g>
+  <rect x="64" y="62" width="56" height="4" fill="#d6b56b"/>
+  <text x="64" y="122" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Ishaan Bhartia</text>
+  <text x="64" y="162" fill="#f3e6e6" font-family="Helvetica, Arial, sans-serif" font-size="21">MS in Finance  |  The University of Chicago Booth School of Business  |  Dec 2026</text>
+  <text x="64" y="200" fill="#d6b56b" font-family="Helvetica, Arial, sans-serif" font-size="18" letter-spacing="1.5">VALUATION  ·  VENTURE &amp; PRIVATE MARKETS  ·  EQUITY RESEARCH  ·  INVESTMENT ANALYTICS</text>
+</svg>
