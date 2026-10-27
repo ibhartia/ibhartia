@@ -8,7 +8,7 @@ I'm an MS in Finance candidate at **The University of Chicago Booth School of Bu
 
 ### Featured project
 
-**[Investment Analytics Portfolio](https://github.com/ibhartia/investment-analytics-portfolio)**: two projects with formula-driven Excel models, a Python implementation that reproduces them, and automated tie-out tests.
+**[Investment Analytics Portfolio](https://github.com/ibhartia/investment-analytics)**: two projects with formula-driven Excel models, a Python implementation that reproduces them, and automated tie-out tests.
 
 | | |
 |---|---|
